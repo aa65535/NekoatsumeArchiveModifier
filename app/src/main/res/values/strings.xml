@@ -1,0 +1,13 @@
+<resources>
+    <string name="nam">猫咪后院存档修改器</string>
+    <string name="silver_fish">银鱼</string>
+    <string name="gold_fish">金鱼</string>
+    <string name="save">保存</string>
+    <string name="number">%d</string>
+    <string name="success_msg">修改成功</string>
+    <string name="failure_msg">修改失败</string>
+    <string name="number_err_msg">请填写正确的数值</string>
+    <string name="archive_pick">选择存档文件</string>
+    <string name="archive_not_found">存档文件不存在</string>
+    <string name="archive_permission_denied">无法访问存档文件</string>
+</resources>
